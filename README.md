@@ -22,4 +22,4 @@ You must submit a file named author containing your email address followed by a 
 
 You must only submit the folder/file mentioned in the subject, which will contain all the necessary prototypes you might need. All those files must be at the root of your repository.
 
-Only the following libc functions are allowed : malloc(3), free(3) and write(2), and their usage is restricted. See below.
+Only the following libc functions are allowed : malloc(3), free(3) and write(2), and their usage is restricted.
